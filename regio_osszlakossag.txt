@@ -1,0 +1,7 @@
+Régió,NépességDél-Alföld,1400000
+Dél-Dunántúl,920000
+Észak-Magyarország,970000
+Közép-Dunántúl,1060000
+Nyugat-Dunántúl,960000
+Észak-Alföld,1310000
+Közép-Magyarország,1150000
